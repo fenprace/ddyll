@@ -1,7 +1,7 @@
 import dayjs from 'dayjs'
 import { v1 } from 'uuid'
 import logo from './assets/ddyll.svg'
-import { Event } from './pages/Event'
+import { Event } from './components/Event'
 
 const EVENTS = [
   { name: '《塞尔达传说：王国之泪》发售', time: dayjs('2023-05-12'), id: v1() },
