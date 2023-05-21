@@ -1,0 +1,10 @@
+{
+  "name": "ddyll",
+  "version": "0.0.0",
+  "description": "大的要来了 - 倒数日日历",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Zhuo FENG",
+  "license": "UNLICENSED"
+}
